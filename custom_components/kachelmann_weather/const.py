@@ -1,0 +1,1 @@
+DOMAIN = "kachelmann_weather"
