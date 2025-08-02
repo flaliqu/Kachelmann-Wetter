@@ -1,1 +1,14 @@
-{"title": "Kachelmann Weather"}
+{
+  "title": "Kachelmann Weather",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up Kachelmann Weather",
+        "description": "No configuration needed."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Only one instance is allowed."
+    }
+  }
+}

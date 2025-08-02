@@ -1,0 +1,14 @@
+{
+  "title": "Kachelmann Wetter",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Kachelmann Wetter einrichten",
+        "description": "Es sind keine weiteren Einstellungen notwendig."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Nur eine Instanz möglich."
+    }
+  }
+}
