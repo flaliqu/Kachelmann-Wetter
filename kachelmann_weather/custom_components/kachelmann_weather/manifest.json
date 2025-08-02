@@ -1,0 +1,9 @@
+{
+  "domain": "kachelmann_weather",
+  "name": "Kachelmann Wetter",
+  "documentation": "https://github.com/yourname/kachelmann_weather",
+  "dependencies": [],
+  "codeowners": ["@yourgithub"],
+  "requirements": [],
+  "version": "1.0.0"
+}
